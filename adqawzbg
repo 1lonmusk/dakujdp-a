@@ -1,0 +1,20 @@
+
+
+
+
+# id1 = ["abcd"]
+# ps1 = ["1234"]
+#
+# while True:
+#     id2 = input("id입력   :  ")
+#     ps2 = input("ps입력   :  ")
+#     print(type(id1),type(id2))
+#     if id2 in id1 and ps2 in ps1:
+#         print("환영합니다")
+#         break
+#     else:
+#         print("다시 입력해주세요")
+
+
+
+
